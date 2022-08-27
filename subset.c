@@ -3,7 +3,7 @@
  
 int main()
  { 
-    char st[]='', ch; 
+    char st[]="abcd", ch; 
     scanf("%d",&ch);
     int l = strlen(st), i, j, k, count = 0; 
      
