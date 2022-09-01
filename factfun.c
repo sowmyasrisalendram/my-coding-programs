@@ -4,7 +4,7 @@ int main()
 {
  
     printf("Enter a Number:");
-    printf("%d ",fact());
+    printf("%d",fact());
     return 0;
 }
 int fact()
